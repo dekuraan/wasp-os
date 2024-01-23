@@ -26,7 +26,7 @@ file = 'apps/phone_finder.py'
 file = 'apps/gallery.py'
 
 [[app]]
-file = 'apps/music-player.py'
+file = 'apps/music_player.py'
 
 [[app]]
 file = 'apps/weather.py'
